@@ -1,0 +1,10 @@
+AppData/
+Desktop/
+*.zip
+*.mp4
+*.png
+*.log
+node_modules/
+__pycache__/
+data/raw/
+*.csv
